@@ -3,6 +3,7 @@
 # Dependency: Cytoscape (http://www.cytoscape.org)
 # Input: TXT (contains network to visualize and properties file to use)
 # Output: none (Cytoscape visualizes network)
+# Tested with: PluMA 1.0, g++ 4.8, Cytoscape 3.2.1
 
 PluMA plugin that will run Cytoscape, assuming it has been installed and is in
 the system PATH.
