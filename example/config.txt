@@ -1,0 +1,1 @@
+Plugin Cytoscape inputfile network.visualization.txt outputfile none
